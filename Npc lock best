@@ -1,13 +1,4 @@
---[
-
-
-
-Dont Steal
-
-
-
-
-]--
+-- Dont Steal
 
 -- Create the ScreenGui
 local screenGui = Instance.new("ScreenGui")
